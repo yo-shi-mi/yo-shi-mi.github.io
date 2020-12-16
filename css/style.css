@@ -41,6 +41,12 @@ body{
   margin-left: 55px;
   top: 150px;
 }
+.head6{
+  position: relative;
+  width: 200px;
+  margin-left: 55px;
+  top: 300px;
+}
 .area2{
   position: relative;
   outline: 1px solid #000;
